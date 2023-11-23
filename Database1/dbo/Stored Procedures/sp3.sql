@@ -1,4 +1,4 @@
 ﻿
 CREATE PROCEDURE [dbo].[sp3]
 AS
-select * From Duplicates3
+select * From Duplicates3;
